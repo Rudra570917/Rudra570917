@@ -64,7 +64,7 @@ The goal is to build a conversational AI system that lets users ask natural-lang
 A fully functional full-stack e-commerce platform built on the MERN stack, with secure JWT authentication, a Redux-powered shopping cart, and Razorpay payment integration (test mode) — plus a dedicated admin dashboard for managing products, orders, and users.
 
 <a href="https://github.com/Rudra570917/ShopNest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra570917&repo=ShopNest&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="ShopNest repo card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra570917&repo=ShopNest&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&cache_seconds=0" alt="ShopNest repo card"/>
 </a>
 
 | Layer | Technology |
@@ -84,7 +84,7 @@ A fully functional full-stack e-commerce platform built on the MERN stack, with 
 A comprehensive Django-based fitness tracking platform offering both manual and algorithm-generated workout plans, injury-aware exercise filtering, progress analytics, and a gamified streaks & points system to keep users consistent.
 
 <a href="https://github.com/Rudra570917/HealthyU">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra570917&repo=HealthyU&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="HealthyU repo card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra570917&repo=HealthyU&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&cache_seconds=0" alt="HealthyU repo card"/>
 </a>
 
 | Layer | Technology |
@@ -103,7 +103,7 @@ A comprehensive Django-based fitness tracking platform offering both manual and 
 A Java-based group project that helps users plan trips end-to-end — managing bookings, tickets, and itineraries — built around solid DBMS design and core data structures.
 
 <a href="https://github.com/Rudra570917/Travel-Planner-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra570917&repo=Travel-Planner-App&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Travel Planner App repo card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra570917&repo=Travel-Planner-App&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&cache_seconds=0" alt="Travel Planner App repo card"/>
 </a>
 
 | Layer | Technology |
@@ -121,7 +121,7 @@ A Java-based group project that helps users plan trips end-to-end — managing b
 A Python-powered cricket analytics tool that crunches match and player data to surface stats, trends, and performance insights for cricket fans and analysts.
 
 <a href="https://github.com/Rudra570917/CricIntel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra570917&repo=CricIntel&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="CricIntel repo card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra570917&repo=CricIntel&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&cache_seconds=0" alt="CricIntel repo card"/>
 </a>
 
 | Layer | Technology |
@@ -161,8 +161,8 @@ A Python-powered cricket analytics tool that crunches match and player data to s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rudra570917&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&count_private=true" alt="Rudra's GitHub stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra570917&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rudra570917&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&count_private=true&cache_seconds=0" alt="Rudra's GitHub stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra570917&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&cache_seconds=0" alt="Top Languages" height="180"/>
 
 <img src="https://streak-stats.demolab.com/?user=Rudra570917&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
