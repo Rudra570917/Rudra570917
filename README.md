@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=200&section=header&text=Hi%20There!%20I'm%20Rudra%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=twinkling&desc=CS%20Student%20%40%20LJ%20University%2C%20Ahmedabad&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=220&section=header&text=Hi%20There!%20I'm%20Rudra%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=CSE%20Student%20%40%20LJ%20University%2C%20Ahmedabad&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+the+making+%F0%9F%9A%80;Java+%7C+Python+%7C+JavaScript;React.js+%2B+Node.js+%2B+Django;Building+ShopNest%2C+HealthyU+%26+CricIntel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+the+making+%F0%9F%9A%80;Java+%7C+Python+%7C+JavaScript;React.js+%2B+Node.js+%2B+Django;Currently+Building+WeatherGPT+for+SIH+2026+%F0%9F%8C%A6%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 ```ts
 const rudra = {
-  title: "CS Student @ LJ University, Ahmedabad (Semester 5)",
+  title: "CSE Student @ LJ University, Ahmedabad (Semester 5)",
   location: "Ahmedabad, India",
 
   stack: {
@@ -37,7 +37,7 @@ const rudra = {
     "CricIntel — Python cricket analytics tool",
   ],
 
-  status: "Sharpening backend fundamentals & shipping full-stack side projects",
+  status: "Building WeatherGPT for SIH 2026 (Problem Statement SIH26068) & sharpening backend fundamentals",
 
   openTo: [
     "Full Stack Developer roles",
@@ -49,7 +49,15 @@ const rudra = {
 
 <br/>
 
-## 🚀 Featured Projects
+## 🔥 Currently Working On
+
+### 🌦️ WeatherGPT — Smart India Hackathon 2026
+
+Currently building a solution for **WeatherGPT: Conversational AI for Weather Forecasting, Alerts, and Climate Information** — official SIH 2026 Problem Statement **SIH26068**.
+
+The goal is to build a conversational AI system that lets users ask natural-language questions about weather, receive forecasts, get real-time alerts, and access climate information — moving beyond static dashboards to an interactive, chat-driven weather assistant.
+
+<br/>
 
 ### 🛒 ShopNest
 
@@ -129,23 +137,23 @@ A Python-powered cricket analytics tool that crunches match and player data to s
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript&perline=6" alt="Languages" height="50"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=6" alt="Frontend" height="50"/>
 
 **Backend / Infra**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&perline=6" alt="Backend" height="50"/>
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Database"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=6" alt="Database" height="50"/>
 
 **Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" alt="Dev Tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman&perline=6" alt="Dev Tools" height="50"/>
 
 <br/>
 
@@ -185,18 +193,3 @@ A Python-powered cricket analytics tool that crunches match and player data to s
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=120&section=footer&animation=twinkling" width="100%"/>
-
-<!--
-**Rudra570917/Rudra570917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
